@@ -1,0 +1,7 @@
+# C#/.NET  - Do not include compiled files
+bin
+obj
+
+# Exclude debugging patches
+Patches/Terminal/Update.cs
+Patches/StartOfRound/Update.cs
