@@ -7,6 +7,6 @@ This fork adds the ability to play a random video from a configured folder path.
 # Install
 
 * Compile yourself or download the latest built release.
-* Make a folder in <game root>/BepInEx/plugins/ called `xBytez-CustomTelevisionVideo` and place the .dll in there.
-* Make a subfolder in <game root>/BepInEx/plugins/xBytez-CustomTelevisionVideo called `videos` and place your video files in there.
+* Make a folder in `<game root>/BepInEx/plugins/` called `xBytez-CustomTelevisionVideo` and place the .dll in there.
+* Make a subfolder in `<game root>/BepInEx/plugins/xBytez-CustomTelevisionVideo` called `videos` and place your video files in there.
 * Place the video files you want to play in the folder you just created.
